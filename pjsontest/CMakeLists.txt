@@ -15,7 +15,7 @@ ${SRC_DIR}/main.cpp
 
 # Project external libs
 set(${TARGET_NAME}_libs
-    "libpjson"
+    "pjson"
 	)
 
 # Project Include directories
