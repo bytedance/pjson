@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.21)
 
-set(TARGET_NAME libpjson)
+set(TARGET_NAME pjson)
 
 project (${TARGET_NAME})
 
